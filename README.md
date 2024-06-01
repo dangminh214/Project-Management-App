@@ -1,9 +1,9 @@
 # Title: A Frontend Project using React JS and Tailwindcss 
 # Install: 
-'''ruby 
+```ruby 
 https://github.com/dangminh214/Project-Management-App.git
 npm run dev
-'''
+```
 ### Homepage (when there is any Projects) 
 ![image](https://github.com/dangminh214/Project-Management-App/assets/51837721/bc9a2313-fcec-44fc-adbf-272e2dfece06)
 
