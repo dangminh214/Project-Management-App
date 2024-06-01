@@ -1,4 +1,5 @@
-# Title: A Frontend Project using React JS and Tailwindcss 
+# Title: Project Managment App 
+# Description:  A Frontend Project using React JS and Tailwindcss 
 # Install: 
 ```ruby 
 https://github.com/dangminh214/Project-Management-App.git
