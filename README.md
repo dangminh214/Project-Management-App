@@ -4,6 +4,7 @@
 ```ruby 
 https://github.com/dangminh214/Project-Management-App.git
 cd Project-Management-App
+npm install
 npm run dev
 ```
 ### Homepage (when there is any Projects) 
